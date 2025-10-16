@@ -58,5 +58,6 @@ No IntelliJ IDEA, clique com o botão direito na pasta resources/ →
 | Integrante      | Vídeo | Parte explicada  |
 |-----------------|-------|------------------|
 | Marina de Sousa | [🔗 Vídeo 1](https://youtu.be/InsDH73XESc?si=wMsJf0hBKIyzc3p9) | Grafo e Entrante |
-| Geovanna Cabral | [🔗 Vídeo 2](https://youtu.be/) | Minotauro        |
+| Geovanna Cabral | [🔗 Vídeo 2]([https://youtu.be/](https://youtu.be/eRewbZ8JoMk)) | Minotauro        |
 | Paula Hânnia    | [🔗 Vídeo 3](https://youtu.be/Efog-Hg5as0?si=pJ8xORfAhbCE6rsB) | Simulação        |
+
